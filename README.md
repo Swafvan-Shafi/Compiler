@@ -13,8 +13,8 @@ To understand the fundamental working of a compiler by implementing its essentia
 
  
 - Technologies Used</br>
-Language: C</br>
-Concepts: DSA,Assembly language</br>
+Language: C 
+</br>Concepts: DSA,Assembly language</br>
 
 
 - Build & Run</br>
