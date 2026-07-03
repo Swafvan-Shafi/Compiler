@@ -5,34 +5,34 @@ To understand the fundamental working of a compiler by implementing its essentia
 
 
 - Features</br>
- Lexical Analysis (Token Generation)
- Syntax Analysis (Parsing)
- Semantic Analysis
- Symbol Table Management
+ Lexical Analysis (Token Generation), 
+ Syntax Analysis (Parsing), 
+ Semantic Analysis, 
+ Symbol Table Management, 
  Error Detection & Reporting</br>
 
  
 - Technologies Used</br>
-Language: C
+Language: C</br>
 Concepts: DSA,Assembly language</br>
 
 
 - Build & Run</br>
-Compile
-gcc *.c -o compiler
-Run
+Compile: 
+gcc *.c -o compiler</br>
+Run: 
 ./compiler</br>
 
 
 - Concepts Covered</br>
-Tokenization
-Parsing
-Semantic Checking
-Symbol Table
-Compiler Phases
+Tokenization, 
+Parsing, 
+Semantic Checking, 
+Symbol Table, 
+Compiler Phases, 
 Error Handling</br>
 
 
 - Developed By</br>
-Swafvan Shafi T
+Swafvan Shafi T, 
 B.Tech Computer Science & Engineering</br>
